@@ -1,0 +1,29 @@
+Les structures de données sont des moyens spécifiques d'organiser et de stocker des données afin qu'elles puissent être consultées et travaillées de manière efficace. 
+Les structures de données définissent la relation entre les données et les opérations pouvant êtres effectués dessus .
+
+Le choix d'un structure de données dépend du problème que nous devons résoudre et du type de données dont nous disposons. Une structure de données inappropriée peut entrainer des durées de fonctionnement(inutilement longues), des pertes de mémoire et un gaspillage de stockage. Ce qui peut raisonnablement entraîner, une perte de plusieurs millions d'euros, voir de quelques jours quand on parle de données à l'échelle.
+
+Les structure de données retrouver en python : 
+ 
+- Tuple 
+- Str
+- Range 
+- List 
+- Dict
+- Set
+
+
+ Les mauvais programmeurs se soucient du code. Les bons programmeurs se soucient des structures de données et de leurs relations. » — Linus Torvalds, créateur de Linux
+
+A retenir que different moyen d'utilisation des liste par exemple en Python sont possible :
+On peut les utiliser en mode Pile et File .
+
+Pour utiliser en python les listes comme des piles on peut utiliser from collection import deque.
+
+Expliquer : 
+
+# - La fonction de hachage : est une structure de données qui associe des clefs à des informations.
+# - Un tableau : est une structure de donnée permettant d'organiser nos donnée et d'en faciliter son accès . 
+# - les list : sont des variables dans lesquelles on peut mettre plusieurs variable.
+# - Tuples : Les tuples ressemble au list mais ne sont pas modifiable, 
+# - dictionnaire : En python sont des liste qui associe chaque objet à une valeur . "Similaire au hachage"
